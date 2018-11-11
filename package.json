@@ -5,6 +5,8 @@
   "private": true,
   "dependencies": {
     "express": "4.x",
+    "express-session": "^1.15.6",
+    "passport": "^0.4.0",
     "passport-github": "^1.1.0"
   }
 }
